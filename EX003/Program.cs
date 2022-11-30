@@ -1,4 +1,5 @@
-﻿int numberA = 4;
-int numberB = 4;
+﻿int numberA = 3;
+int numberB = 5;
 int result = numberA + numberB;
+Console.WriteLine(result);
 
