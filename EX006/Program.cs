@@ -2,7 +2,7 @@
 
 Console.Write("input your name:  ");
 
-string nameInput = Console.ReadLine();
+string nameInput = Console.ReadLine() ??"";
 
 if(nameInput.ToLower() == "masha")
 {

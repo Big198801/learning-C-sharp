@@ -1,5 +1,4 @@
-﻿int max(int)
-int a = 3;
+﻿int a = 3;
 int b = 6;
 int c = 3;
 int d = 5;
@@ -13,3 +12,5 @@ if(c > max) max = c;
 if(d > max) max = d;
 if(e > max) max = e;
 if(f > max) max = f;
+
+Console.Write(max);
