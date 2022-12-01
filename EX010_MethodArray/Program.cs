@@ -2,16 +2,16 @@
 
 int n = array.Length;
 int find = 799;
-int index = 0;
+int inde = 0;
 
-while (index < n)
+while (inde < n)
 {
-if (array[index] == find)
+if (array[inde] == find)
   {
-    Console.WriteLine(index);
+    Console.WriteLine(inde);
+    inde = inde + 1;
     break;
-    index++ ;
   }
 else
-   index++ ;
+   inde++ ;
 }
