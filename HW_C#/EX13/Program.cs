@@ -4,16 +4,16 @@
 
 
 Console.Clear();
-System.Console.WriteLine("Input triple digits number: ");
+System.Console.WriteLine("введите трехзначное или большее число: ");
 string a = Console.ReadLine()??"";
 if (a.Contains('-'))   //простая проверка на отрицательное значение, чтобы при последующем преобразовании строки в инту не выдавало ошибку
 {
-    System.Console.WriteLine("number must be > than 0 ");
+    System.Console.WriteLine("число должно быть положительным");
     return;
 }
 int a1 = Convert.ToInt32(a);
 
-if ( a1 >=100 && a1 <= 999)
+if ( a1 >=100 )
 {
     System.Console.WriteLine("...in progress...");
 
@@ -21,11 +21,6 @@ if ( a1 >=100 && a1 <= 999)
 else if (a1 >= 1 && a1 < 100 )
 {
     System.Console.WriteLine("третьей цифры нет.");
-    return;
-}
-else if (a1 > 1000)
-{
-    System.Console.WriteLine("incorret number, please input in range 100 to 999...");
     return;
 }
 
