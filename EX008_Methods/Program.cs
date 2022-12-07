@@ -25,7 +25,7 @@ int max1 = Max(
 System.Console.WriteLine(max1);*/
 
 
-int Mx(int x1, int x2, int x3)
+/*int Mx(int x1, int x2, int x3)
 {int result = x1;
 
 if (x2  > result) result = x2;
@@ -37,4 +37,6 @@ int b = 23;
 int c = 32;
 
 int larger = Mx(a, b, c);
-System.Console.WriteLine(larger);
+System.Console.WriteLine(larger);*/
+
+
