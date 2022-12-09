@@ -3,5 +3,4 @@
 
 System.Console.WriteLine("введите число");
 
-string quarter = Console.ReadLine();
-int int_quarter = 
+

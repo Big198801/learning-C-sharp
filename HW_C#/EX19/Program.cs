@@ -3,6 +3,8 @@
 12821 -> да
 23432 -> да   */
 
+
+
 System.Console.WriteLine("Введите число: ");
 string rndm_str = Console.ReadLine()??"";
 
@@ -31,5 +33,7 @@ if (rndm_str[0] == rndm_str[4] && rndm_str[1] == rndm_str[3])
 else
 {
     Console.Write(" - НЕ является палиндромом. Программа завершена");
+    return;
 }
-    
+
+
