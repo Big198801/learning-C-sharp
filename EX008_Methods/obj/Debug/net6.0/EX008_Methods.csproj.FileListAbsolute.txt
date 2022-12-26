@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\obj\Debug\net6.0\EX008_Methods.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\obj\Debug\net6.0\EX008_Methods.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\obj\Debug\net6.0\EX008_Methods.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\obj\Debug\net6.0\EX008_Methods.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\obj\Debug\net6.0\EX008_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\bin\Debug\net6.0\EX008_Methods.exe
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\bin\Debug\net6.0\EX008_Methods.deps.json
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\bin\Debug\net6.0\EX008_Methods.runtimeconfig.json
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\bin\Debug\net6.0\EX008_Methods.dll
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\bin\Debug\net6.0\EX008_Methods.pdb
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\obj\Debug\net6.0\EX008_Methods.dll
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\obj\Debug\net6.0\refint\EX008_Methods.dll
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\obj\Debug\net6.0\EX008_Methods.pdb
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\obj\Debug\net6.0\EX008_Methods.genruntimeconfig.cache
+C:\Users\Anna\Desktop\IT\C#\EX008_Methods\obj\Debug\net6.0\ref\EX008_Methods.dll

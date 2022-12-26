@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\bin\Debug\net6.0\EX008.exe
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\bin\Debug\net6.0\EX008.deps.json
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\bin\Debug\net6.0\EX008.runtimeconfig.json
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\bin\Debug\net6.0\EX008.dll
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\bin\Debug\net6.0\EX008.pdb
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\obj\Debug\net6.0\EX008.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\obj\Debug\net6.0\EX008.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\obj\Debug\net6.0\EX008.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\obj\Debug\net6.0\EX008.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\obj\Debug\net6.0\EX008.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\obj\Debug\net6.0\EX008.dll
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\obj\Debug\net6.0\refint\EX008.dll
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\obj\Debug\net6.0\EX008.pdb
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\obj\Debug\net6.0\EX008.genruntimeconfig.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX008\obj\Debug\net6.0\ref\EX008.dll

@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\bin\Debug\net6.0\EX010_MethodArray.exe
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\bin\Debug\net6.0\EX010_MethodArray.deps.json
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\bin\Debug\net6.0\EX010_MethodArray.runtimeconfig.json
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\bin\Debug\net6.0\EX010_MethodArray.dll
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\bin\Debug\net6.0\EX010_MethodArray.pdb
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\obj\Debug\net6.0\EX010_MethodArray.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\obj\Debug\net6.0\EX010_MethodArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\obj\Debug\net6.0\EX010_MethodArray.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\obj\Debug\net6.0\EX010_MethodArray.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\obj\Debug\net6.0\EX010_MethodArray.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\obj\Debug\net6.0\EX010_MethodArray.dll
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\obj\Debug\net6.0\refint\EX010_MethodArray.dll
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\obj\Debug\net6.0\EX010_MethodArray.pdb
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\obj\Debug\net6.0\EX010_MethodArray.genruntimeconfig.cache
+C:\Users\Anna\Desktop\IT\C#\EX010_MethodArray\obj\Debug\net6.0\ref\EX010_MethodArray.dll

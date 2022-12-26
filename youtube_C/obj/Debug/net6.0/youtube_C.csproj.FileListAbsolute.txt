@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\IT\C#\youtube_C\bin\Debug\net6.0\youtube_C.exe
+C:\Users\Anna\Desktop\IT\C#\youtube_C\bin\Debug\net6.0\youtube_C.deps.json
+C:\Users\Anna\Desktop\IT\C#\youtube_C\bin\Debug\net6.0\youtube_C.runtimeconfig.json
+C:\Users\Anna\Desktop\IT\C#\youtube_C\bin\Debug\net6.0\youtube_C.dll
+C:\Users\Anna\Desktop\IT\C#\youtube_C\bin\Debug\net6.0\youtube_C.pdb
+C:\Users\Anna\Desktop\IT\C#\youtube_C\obj\Debug\net6.0\youtube_C.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IT\C#\youtube_C\obj\Debug\net6.0\youtube_C.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IT\C#\youtube_C\obj\Debug\net6.0\youtube_C.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IT\C#\youtube_C\obj\Debug\net6.0\youtube_C.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IT\C#\youtube_C\obj\Debug\net6.0\youtube_C.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IT\C#\youtube_C\obj\Debug\net6.0\youtube_C.dll
+C:\Users\Anna\Desktop\IT\C#\youtube_C\obj\Debug\net6.0\refint\youtube_C.dll
+C:\Users\Anna\Desktop\IT\C#\youtube_C\obj\Debug\net6.0\youtube_C.pdb
+C:\Users\Anna\Desktop\IT\C#\youtube_C\obj\Debug\net6.0\youtube_C.genruntimeconfig.cache
+C:\Users\Anna\Desktop\IT\C#\youtube_C\obj\Debug\net6.0\ref\youtube_C.dll

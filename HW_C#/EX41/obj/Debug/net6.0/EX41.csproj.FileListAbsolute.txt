@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\obj\Debug\net6.0\EX41.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\obj\Debug\net6.0\EX41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\obj\Debug\net6.0\EX41.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\obj\Debug\net6.0\EX41.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\obj\Debug\net6.0\EX41.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\bin\Debug\net6.0\EX41.exe
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\bin\Debug\net6.0\EX41.deps.json
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\bin\Debug\net6.0\EX41.runtimeconfig.json
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\bin\Debug\net6.0\EX41.dll
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\bin\Debug\net6.0\EX41.pdb
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\obj\Debug\net6.0\EX41.dll
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\obj\Debug\net6.0\refint\EX41.dll
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\obj\Debug\net6.0\EX41.pdb
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\obj\Debug\net6.0\EX41.genruntimeconfig.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX41\obj\Debug\net6.0\ref\EX41.dll

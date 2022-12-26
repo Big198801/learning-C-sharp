@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\obj\Debug\net6.0\forth_ex07.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\obj\Debug\net6.0\forth_ex07.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\obj\Debug\net6.0\forth_ex07.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\obj\Debug\net6.0\forth_ex07.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\obj\Debug\net6.0\forth_ex07.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\bin\Debug\net6.0\forth_ex07.exe
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\bin\Debug\net6.0\forth_ex07.deps.json
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\bin\Debug\net6.0\forth_ex07.runtimeconfig.json
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\bin\Debug\net6.0\forth_ex07.dll
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\bin\Debug\net6.0\forth_ex07.pdb
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\obj\Debug\net6.0\forth_ex07.dll
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\obj\Debug\net6.0\refint\forth_ex07.dll
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\obj\Debug\net6.0\forth_ex07.pdb
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\obj\Debug\net6.0\forth_ex07.genruntimeconfig.cache
+C:\Users\Anna\Desktop\IT\C#\forth_ex07\obj\Debug\net6.0\ref\forth_ex07.dll

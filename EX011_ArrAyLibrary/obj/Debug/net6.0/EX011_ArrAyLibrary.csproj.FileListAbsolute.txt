@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\obj\Debug\net6.0\EX011_ArrAyLibrary.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\obj\Debug\net6.0\EX011_ArrAyLibrary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\obj\Debug\net6.0\EX011_ArrAyLibrary.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\obj\Debug\net6.0\EX011_ArrAyLibrary.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\obj\Debug\net6.0\EX011_ArrAyLibrary.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\bin\Debug\net6.0\EX011_ArrAyLibrary.exe
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\bin\Debug\net6.0\EX011_ArrAyLibrary.deps.json
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\bin\Debug\net6.0\EX011_ArrAyLibrary.runtimeconfig.json
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\bin\Debug\net6.0\EX011_ArrAyLibrary.dll
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\bin\Debug\net6.0\EX011_ArrAyLibrary.pdb
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\obj\Debug\net6.0\EX011_ArrAyLibrary.dll
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\obj\Debug\net6.0\refint\EX011_ArrAyLibrary.dll
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\obj\Debug\net6.0\EX011_ArrAyLibrary.pdb
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\obj\Debug\net6.0\EX011_ArrAyLibrary.genruntimeconfig.cache
+C:\Users\Anna\Desktop\IT\C#\EX011_ArrAyLibrary\obj\Debug\net6.0\ref\EX011_ArrAyLibrary.dll

@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\bin\Debug\net6.0\EX44.exe
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\bin\Debug\net6.0\EX44.deps.json
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\bin\Debug\net6.0\EX44.runtimeconfig.json
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\bin\Debug\net6.0\EX44.dll
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\bin\Debug\net6.0\EX44.pdb
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\obj\Debug\net6.0\EX44.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\obj\Debug\net6.0\EX44.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\obj\Debug\net6.0\EX44.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\obj\Debug\net6.0\EX44.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\obj\Debug\net6.0\EX44.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\obj\Debug\net6.0\EX44.dll
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\obj\Debug\net6.0\refint\EX44.dll
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\obj\Debug\net6.0\EX44.pdb
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\obj\Debug\net6.0\EX44.genruntimeconfig.cache
+C:\Users\Anna\Desktop\IT\C#\Lesson6\EX44\obj\Debug\net6.0\ref\EX44.dll

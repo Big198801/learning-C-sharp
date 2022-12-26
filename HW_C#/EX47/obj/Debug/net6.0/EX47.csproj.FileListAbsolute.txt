@@ -1,0 +1,15 @@
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\bin\Debug\net6.0\EX47.exe
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\bin\Debug\net6.0\EX47.deps.json
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\bin\Debug\net6.0\EX47.runtimeconfig.json
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\bin\Debug\net6.0\EX47.dll
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\bin\Debug\net6.0\EX47.pdb
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\obj\Debug\net6.0\EX47.csproj.AssemblyReference.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\obj\Debug\net6.0\EX47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\obj\Debug\net6.0\EX47.AssemblyInfoInputs.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\obj\Debug\net6.0\EX47.AssemblyInfo.cs
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\obj\Debug\net6.0\EX47.csproj.CoreCompileInputs.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\obj\Debug\net6.0\EX47.dll
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\obj\Debug\net6.0\refint\EX47.dll
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\obj\Debug\net6.0\EX47.pdb
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\obj\Debug\net6.0\EX47.genruntimeconfig.cache
+C:\Users\Anna\Desktop\IT\C#\HW_C#\EX47\obj\Debug\net6.0\ref\EX47.dll
