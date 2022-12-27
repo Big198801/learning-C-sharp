@@ -9,6 +9,16 @@
 9 5 3 2
 8 4 4 2
 */
+/*Задача 54: Задайте двумерный массив. Напишите программу, которая упорядочит по убыванию элементы каждой строки двумерного массива.
+Например, задан массив:
+1 4 7 2
+5 9 2 3
+8 4 2 4
+В итоге получается вот такой массив:
+7 4 2 1
+9 5 3 2
+8 4 4 2
+*/
 // 1. создаем массив
 int[,] GetArray(int rows, int columns)
 {
@@ -37,28 +47,29 @@ void Printarray(int[,] array)
     }
 }
 
-
+// 3. Сортируем по убыванию
 void SortArray(int[,] array)
 {
-    int max = 0;
-    int min = 0;
     int temp = 0;
     for (int i = 0; i < array.GetLength(0); i++)
     {
-        for (int j = array.GetLength(1) - 1 ; j < 0; j--)
+        for (int j = 0; j < array.GetLength(1); j++)
         {
-            if (array[i, j] > max)
+            for (int h = j + 1; h < array.GetLength(1); h++)
             {
-                max = j;
-                temp = array[i, j];
-                
-                array[i,j] = temp;
-
-
+                if (array[i, j] < array[i, h])
+                {
+                    temp = array[i, j];
+                    array[i, j] = array[i, h];
+                    array[i, h] = temp;
+                }
             }
         }
     }
 }
 
-int[,] array = GetArray(5, 6);
+int[,] array = GetArray(10, 8);
+Printarray(array);
+SortArray(array);
+Console.WriteLine();
 Printarray(array);
